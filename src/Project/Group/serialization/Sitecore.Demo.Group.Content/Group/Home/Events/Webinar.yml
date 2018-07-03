@@ -1,0 +1,23 @@
+﻿---
+ID: "ddb18cbc-1c06-4ce1-b6d9-5e31a5a28fd0"
+Parent: "4c383a7c-f2c2-4b3e-8fbd-7b5d0e300b81"
+Template: "581b7672-6519-44ca-adc5-f7e8647dc864"
+Path: /sitecore/content/Group/Home/Events/Webinar
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22779a1f-4ecf-45bd-80d2-bc8af17fbca3"
+      Hint: Title
+      Value: Webinar
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T071548Z
+    - ID: "96e90b46-2e4d-480d-8fd6-0d2edc587394"
+      Hint: Venue
+      Value: EYCCH conference in Las Vegas.
+    - ID: "b3294af2-c63a-4736-97a1-72c9554fe27a"
+      Hint: Date
+      Value: 20180709T180000Z

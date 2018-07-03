@@ -1,0 +1,17 @@
+﻿---
+ID: "2c187ab2-847f-4cfd-b2c9-bf12c12e2cae"
+Parent: "6136d955-d4c3-45af-8efa-69ab3add5848"
+Template: "061574e1-59dd-4b62-9680-1c84efbe6773"
+Path: /sitecore/content/Group/Sweden/About/_Local/Management
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160906T223809Z
+    - ID: "4a59d072-5b41-4a79-a157-2b2ccac10f2b"
+      Hint: TeaserTitle
+      Value: Management

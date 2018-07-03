@@ -17,7 +17,8 @@ Languages:
       Value: 20160829T015014Z
     - ID: "9492e0bb-9df9-46e7-8188-ec795c4ade44"
       Hint: Image
-      Value: "<image mediaid=\"{73885265-A606-4B6F-BA3E-9AA98BD0D2BF}\" />"
+      Value: |
+        <image mediaid="{73885265-A606-4B6F-BA3E-9AA98BD0D2BF}" />
     - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
       Hint: Summary
       Value: |

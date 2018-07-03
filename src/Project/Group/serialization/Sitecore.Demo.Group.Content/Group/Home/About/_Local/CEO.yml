@@ -23,4 +23,5 @@ Languages:
       Value: CEO of Habitat Group
     - ID: "c9baf3eb-8cfa-4bf6-9b19-51d38db5fc38"
       Hint: Picture
-      Value: "<image mediaid=\"{ECED32A1-B8E4-435A-95A2-A187F2A09266}\" />"
+      Value: |
+        <image mediaid="{ECED32A1-B8E4-435A-95A2-A187F2A09266}" />

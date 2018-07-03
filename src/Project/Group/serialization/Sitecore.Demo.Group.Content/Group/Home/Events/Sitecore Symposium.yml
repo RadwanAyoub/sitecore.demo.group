@@ -1,0 +1,35 @@
+﻿---
+ID: "ce8b5034-860a-4d9b-9391-3b35d8253946"
+Parent: "4c383a7c-f2c2-4b3e-8fbd-7b5d0e300b81"
+Template: "581b7672-6519-44ca-adc5-f7e8647dc864"
+Path: /sitecore/content/Group/Home/Events/Sitecore Symposium
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: Sydney
+    - ID: "22779a1f-4ecf-45bd-80d2-bc8af17fbca3"
+      Hint: Title
+      Value: Sitecore Symposium
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T071534Z
+    - ID: "42fca202-0ac9-482e-82f4-aeb49413416d"
+      Hint: Description
+      Value: Greatest show on earth
+    - ID: "96e90b46-2e4d-480d-8fd6-0d2edc587394"
+      Hint: Venue
+      Value: Habitat Group was Best in Business Award by Harvest and Monk at the annual EYCCH conference in Las Vegas.
+    - ID: "b3294af2-c63a-4736-97a1-72c9554fe27a"
+      Hint: Date
+      Value: 20180702T160000Z
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: "Here it is!!!"
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: "37.09024,-95.71289100000001"

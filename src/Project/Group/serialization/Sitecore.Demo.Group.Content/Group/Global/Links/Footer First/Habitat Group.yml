@@ -21,4 +21,5 @@ Languages:
       Value: 20160828T232624Z
     - ID: "fe71c30e-f07d-4052-8594-c3028cd76e1f"
       Hint: Link
-      Value: "<link text=\"\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{2C3BB531-DE82-40B4-A185-2AAF15A648A6}\" />"
+      Value: |
+        <link text="" linktype="internal" class="" title="" target="" querystring="" id="{2C3BB531-DE82-40B4-A185-2AAF15A648A6}" />

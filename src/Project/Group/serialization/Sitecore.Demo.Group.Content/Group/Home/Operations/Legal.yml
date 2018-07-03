@@ -17,7 +17,8 @@ Languages:
       Value: 20160829T014918Z
     - ID: "9492e0bb-9df9-46e7-8188-ec795c4ade44"
       Hint: Image
-      Value: "<image mediaid=\"{1C9D05D5-5503-499A-9782-444109A3AF42}\" />"
+      Value: |
+        <image mediaid="{1C9D05D5-5503-499A-9782-444109A3AF42}" />
     - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
       Hint: Summary
       Value: For decades, our lawyers have been key figures and played pivotal roles in legal services worldwide—advancing both public and private interests, Habitat Lagal clients are frequently at the center of the most strategic and vital activities and investments.
