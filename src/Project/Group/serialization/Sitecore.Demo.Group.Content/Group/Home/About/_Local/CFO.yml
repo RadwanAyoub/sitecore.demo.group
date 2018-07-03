@@ -23,4 +23,5 @@ Languages:
       Value: CFO of Habitat Group
     - ID: "c9baf3eb-8cfa-4bf6-9b19-51d38db5fc38"
       Hint: Picture
-      Value: "<image mediaid=\"{583DAE86-29FC-456D-8EEE-8D24EA5A186B}\" />"
+      Value: |
+        <image mediaid="{583DAE86-29FC-456D-8EEE-8D24EA5A186B}" />

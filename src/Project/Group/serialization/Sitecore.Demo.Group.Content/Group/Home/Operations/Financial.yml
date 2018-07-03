@@ -17,7 +17,8 @@ Languages:
       Value: 20160829T014930Z
     - ID: "9492e0bb-9df9-46e7-8188-ec795c4ade44"
       Hint: Image
-      Value: "<image mediaid=\"{37DA06B4-379C-4844-87D4-1EFFABBA1AC2}\" />"
+      Value: |
+        <image mediaid="{37DA06B4-379C-4844-87D4-1EFFABBA1AC2}" />
     - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
       Hint: Summary
       Value: Habitat is a global financial institution with core markets in North America, Europe and Asia/Pacific. Within these regions, we serve all types of customer, from personal customers and businesses to large institutional clients.

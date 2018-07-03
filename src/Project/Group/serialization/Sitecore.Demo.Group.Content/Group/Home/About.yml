@@ -84,7 +84,8 @@ Languages:
       Value: 20160822T080703Z
     - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
       Hint: Summary
-      Value: "<p><span style=\"color: #212b34; background-color: #ffffff;\">Our uncompromising commitment to global thinking, innovation, and collaboration in the way we build, sell, deliver, and optimize our products and services. This clear, strategic focus is a mantra for Habitat management, employees, and partners alike, and it permeates our entire ecosystem</span></p>"
+      Value: |
+        <p><span style="color: #212b34; background-color: #ffffff;">Our uncompromising commitment to global thinking, innovation, and collaboration in the way we build, sell, deliver, and optimize our products and services. This clear, strategic focus is a mantra for Habitat management, employees, and partners alike, and it permeates our entire ecosystem</span></p>
     - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
       Hint: Title
       Value: About the Habitat Group

@@ -26,4 +26,5 @@ Languages:
       Value: Chairman of the Board
     - ID: "c9baf3eb-8cfa-4bf6-9b19-51d38db5fc38"
       Hint: Picture
-      Value: "<image mediaid=\"{919B080C-2F29-46B2-923B-E4076AA0F533}\" />"
+      Value: |
+        <image mediaid="{919B080C-2F29-46B2-923B-E4076AA0F533}" />

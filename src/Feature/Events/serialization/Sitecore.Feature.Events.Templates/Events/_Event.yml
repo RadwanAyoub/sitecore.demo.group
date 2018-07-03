@@ -1,0 +1,22 @@
+﻿---
+ID: "e6462944-aec7-44f6-a2fd-32fee675d61f"
+Parent: "ff0c591c-600b-4d07-8845-d544362c081e"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Events/_Event
+DB: master
+SharedFields:
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{D1710AF1-8331-487A-8A65-74B9E12BB9A0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180701T115549Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
